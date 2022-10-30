@@ -1,0 +1,12 @@
+@media (max-width: 800px) {
+    .flex {
+
+
+        flex-direction: column;
+    }
+    .container {
+         font-size: 0.75em;
+         width: 100%;
+    }
+
+}
