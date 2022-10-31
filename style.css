@@ -4,9 +4,16 @@
 
         flex-direction: column;
     }
+
+    
     .container {
-         font-size: 0.75em;
-         width: 100%;
+        font-size: 0.5em;
+        max-width: 100%;
+    }
+
+    .topnav {
+        font-size: 0.75em;
+        width: 100%;
     }
 
 }
